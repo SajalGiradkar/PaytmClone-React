@@ -161,11 +161,12 @@
         transform: translateX(100%);
         transition: .3s;
     }
+
     .active-menu {
         transform: translateX(0%);
     }
 
-    .nav-links> ul li {
+    .nav-links>ul li {
         display: block;
         margin: .9rem 0;
     }
@@ -174,5 +175,5 @@
         display: block;
     }
 
-   
+
 }
